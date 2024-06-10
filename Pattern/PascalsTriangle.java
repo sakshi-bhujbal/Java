@@ -1,3 +1,4 @@
+package Pattern;
 public class PascalsTriangle {
 
     public static int factorial(int i) {

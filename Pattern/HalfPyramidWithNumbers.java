@@ -1,3 +1,4 @@
+package Pattern;
 public class HalfPyramidWithNumbers {
     public static void main(String args[]){
         int n=5;

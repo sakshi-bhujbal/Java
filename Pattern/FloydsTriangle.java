@@ -1,3 +1,4 @@
+package Pattern;
 public class FloydsTriangle {
     public static void main(String args[]){
         int n=5;

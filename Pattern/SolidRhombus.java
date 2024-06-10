@@ -1,4 +1,5 @@
-public class HollowRhombus {
+package Pattern;
+public class SolidRhombus {
     public static void main(String args[]){
         int n=5;
        
@@ -8,13 +9,9 @@ public class HollowRhombus {
                 System.out.print(" ");
             }
             for(int j=1;j<=n;j++)
-            {
-            if(i==1 || j==1 || i==n || j==n)
-            System.out.print("*");
-            else
-            System.out.print(" ");
-            }
+              {  System.out.print("*");
+        }
         System.out.println();
     }
-}
+} 
 }

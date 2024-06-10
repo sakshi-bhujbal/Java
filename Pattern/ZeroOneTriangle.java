@@ -1,3 +1,4 @@
+package Pattern;
 public class ZeroOneTriangle {
     public static void main(String args[]){
         int n=5;
