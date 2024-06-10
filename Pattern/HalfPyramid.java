@@ -1,4 +1,3 @@
-package Pattern;
 public class HalfPyramid {
     public static void main(String args[]){
         int n = 4;
