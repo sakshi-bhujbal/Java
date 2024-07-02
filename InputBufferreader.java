@@ -6,9 +6,12 @@ public class InputBufferreader {
         String str=bfn.readLine();
 
         int it=Integer.parseInt(bfn.readLine());
+        char c=bfn.readLine().charAt(1);
 
         System.out.println("Entered String is: "+str);
 
         System.out.println("Entered integer is: "+it);
+
+        System.out.println("Character at 1st index is: "+c);
     }    
 }
