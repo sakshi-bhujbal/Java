@@ -1,3 +1,4 @@
+package Arrays;
 public class ArrayAsStaticfield {
     private static int[] staticArray={1,2,3,4,5};
 
