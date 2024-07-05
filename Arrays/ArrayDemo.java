@@ -7,6 +7,7 @@ public class ArrayDemo {
         marks[0]=1;
         marks[1]=8;
         marks[2]=9;
-        System.out.println(marks);
+        for(int i=0;i<3;i++)
+        System.out.println(marks[i]);
     }
 }
