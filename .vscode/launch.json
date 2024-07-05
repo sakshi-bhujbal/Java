@@ -1,0 +1,190 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAsStaticfield",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayAsStaticfield",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays.Arrays",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "SubarraySum",
+            "request": "launch",
+            "mainClass": "Arrays.SubarraySum",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "InputBufferreader",
+            "request": "launch",
+            "mainClass": "InputBufferreader",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "InputScanner",
+            "request": "launch",
+            "mainClass": "InputScanner",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "NestedWhile",
+            "request": "launch",
+            "mainClass": "NestedWhile",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "ButterflyPattern",
+            "request": "launch",
+            "mainClass": "Pattern.ButterflyPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "Pattern.DiamondPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.FloydsTriangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramid",
+            "request": "launch",
+            "mainClass": "Pattern.HalfPyramid",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "HalfPyramidWithNumbers",
+            "request": "launch",
+            "mainClass": "Pattern.HalfPyramidWithNumbers",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "HollowButterfly",
+            "request": "launch",
+            "mainClass": "Pattern.HollowButterfly",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "HollowRectangle",
+            "request": "launch",
+            "mainClass": "Pattern.HollowRectangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "HollowRhombus",
+            "request": "launch",
+            "mainClass": "Pattern.HollowRhombus",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfPyramid",
+            "request": "launch",
+            "mainClass": "Pattern.InvertedHalfPyramid",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfPyramidRotatedBy180",
+            "request": "launch",
+            "mainClass": "Pattern.InvertedHalfPyramidRotatedBy180",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "InvertedHalfPyramidWithNumbers",
+            "request": "launch",
+            "mainClass": "Pattern.InvertedHalfPyramidWithNumbers",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "PalindromicPyramid",
+            "request": "launch",
+            "mainClass": "Pattern.PalindromicPyramid",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "PascalsTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.PascalsTriangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "PyramidNumber",
+            "request": "launch",
+            "mainClass": "Pattern.PyramidNumber",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectangle",
+            "request": "launch",
+            "mainClass": "Pattern.SolidRectangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "SolidRhombus",
+            "request": "launch",
+            "mainClass": "Pattern.SolidRhombus",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "ZeroOneTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.ZeroOneTriangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "ScannerDemo2",
+            "request": "launch",
+            "mainClass": "ScannerDemo2",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "multiplication",
+            "request": "launch",
+            "mainClass": "multiplication",
+            "projectName": "Java_73ea927"
+        }
+    ]
+}
