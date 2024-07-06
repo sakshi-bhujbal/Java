@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TransposeMatrix",
+            "request": "launch",
+            "mainClass": "Arrays.TransposeMatrix",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "SearchKeyIn2DArray",
+            "request": "launch",
+            "mainClass": "Arrays.SearchKeyIn2DArray",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "Print2DArray",
+            "request": "launch",
+            "mainClass": "Arrays.Print2DArray",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "ToCheckArrayIsSortedOrNot",
             "request": "launch",
             "mainClass": "Arrays.ToCheckArrayIsSortedOrNot",
