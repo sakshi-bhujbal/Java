@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxMinInArray",
+            "request": "launch",
+            "mainClass": "Arrays.MaxMinInArray",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "ToSearchNumberInArray",
             "request": "launch",
             "mainClass": "Arrays.ToSearchNumberInArray",
