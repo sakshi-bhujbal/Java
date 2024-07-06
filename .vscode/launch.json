@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ToCheckArrayIsSortedOrNot",
+            "request": "launch",
+            "mainClass": "Arrays.ToCheckArrayIsSortedOrNot",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "MaxMinInArray",
             "request": "launch",
             "mainClass": "Arrays.MaxMinInArray",
