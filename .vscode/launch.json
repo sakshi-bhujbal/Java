@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmailToUsername",
+            "request": "launch",
+            "mainClass": "Strings.EmailToUsername",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "LetterReplace",
+            "request": "launch",
+            "mainClass": "Strings.LetterReplace",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "LengthOfArrayOfStrings",
             "request": "launch",
             "mainClass": "Strings.LengthOfArrayOfStrings",
