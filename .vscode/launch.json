@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LengthOfArrayOfStrings",
+            "request": "launch",
+            "mainClass": "Strings.LengthOfArrayOfStrings",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "substringexample",
             "request": "launch",
             "mainClass": "Strings.substringexample",
