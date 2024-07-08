@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LengthOfString",
+            "request": "launch",
+            "mainClass": "Strings.LengthOfString",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "TransposeMatrix",
             "request": "launch",
             "mainClass": "Arrays.TransposeMatrix",
