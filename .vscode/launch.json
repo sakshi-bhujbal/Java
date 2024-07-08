@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "substringexample",
+            "request": "launch",
+            "mainClass": "Strings.substringexample",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "Demosubstring",
+            "request": "launch",
+            "mainClass": "Strings.Demosubstring",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "SubString",
+            "request": "launch",
+            "mainClass": "Strings.SubString",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "LengthOfString",
             "request": "launch",
             "mainClass": "Strings.LengthOfString",
