@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "Strings.ReverseAString",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "DemoStringBuilder",
+            "request": "launch",
+            "mainClass": "Strings.DemoStringBuilder",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "EmailToUsername",
             "request": "launch",
             "mainClass": "Strings.EmailToUsername",
