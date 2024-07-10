@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "Inheritance",
             "request": "launch",
             "mainClass": "OOP.Inheritance",
