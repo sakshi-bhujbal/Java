@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RightPascalsTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.RightPascalsTriangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "RightDownMirrorStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.RightDownMirrorStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "ReversePyramidStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.ReversePyramidStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "MirroredRigthTriangleStarPattern",
             "request": "launch",
             "mainClass": "Pattern.MirroredRigthTriangleStarPattern",
