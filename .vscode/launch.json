@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeftTriangleStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.LeftTriangleStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "RightTriangleStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.RightTriangleStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "PrintAsciiValue",
             "request": "launch",
             "mainClass": "PrintAsciiValue",
