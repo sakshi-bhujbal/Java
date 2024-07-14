@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiamondStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.DiamondStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "PyramidStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.PyramidStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "LeftTriangleStarPattern",
             "request": "launch",
             "mainClass": "Pattern.LeftTriangleStarPattern",
