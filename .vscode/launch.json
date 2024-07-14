@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrintAsciiValue",
+            "request": "launch",
+            "mainClass": "PrintAsciiValue",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumber",
+            "request": "launch",
+            "mainClass": "RandomNumber",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "ArmstrongNumber",
             "request": "launch",
             "mainClass": "ArmstrongNumber",
