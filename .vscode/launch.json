@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DownwardStarTriangle",
+            "request": "launch",
+            "mainClass": "Pattern.DownwardStarTriangle",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "DiamondStarPattern",
             "request": "launch",
             "mainClass": "Pattern.DiamondStarPattern",
