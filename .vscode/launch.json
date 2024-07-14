@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MirroredRigthTriangleStarPattern",
+            "request": "launch",
+            "mainClass": "Pattern.MirroredRigthTriangleStarPattern",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "DownwardStarTriangle",
             "request": "launch",
             "mainClass": "Pattern.DownwardStarTriangle",
