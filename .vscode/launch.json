@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NthPrimeNumber",
+            "request": "launch",
+            "mainClass": "NumberPrograms.NthPrimeNumber",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "AutomorphicNumber",
             "request": "launch",
             "mainClass": "NumberPrograms.AutomorphicNumber",
