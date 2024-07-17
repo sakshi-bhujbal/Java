@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "NumberPrograms.ReverseNumber",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "SandGlassStarPattern",
             "request": "launch",
             "mainClass": "Pattern.SandGlassStarPattern",
