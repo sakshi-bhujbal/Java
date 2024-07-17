@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AutomorphicNumber",
+            "request": "launch",
+            "mainClass": "NumberPrograms.AutomorphicNumber",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "ReverseNumber",
             "request": "launch",
             "mainClass": "NumberPrograms.ReverseNumber",
