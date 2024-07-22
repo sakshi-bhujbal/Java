@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "OOP.Polymorphism",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "NthPrimeNumber",
             "request": "launch",
             "mainClass": "NumberPrograms.NthPrimeNumber",
