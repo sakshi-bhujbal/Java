@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "OOP.Abstraction",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "NumberPrograms.Abstraction",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "Polymorphism",
             "request": "launch",
             "mainClass": "OOP.Polymorphism",
