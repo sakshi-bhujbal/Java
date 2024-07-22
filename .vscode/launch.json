@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MethodOverriding",
+            "request": "launch",
+            "mainClass": "OOP.MethodOverriding",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "RuntimePolymorphism",
+            "request": "launch",
+            "mainClass": "OOP.RuntimePolymorphism",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "RunTimePolymorphism",
+            "request": "launch",
+            "mainClass": "OOP.RunTimePolymorphism",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "Abstraction",
             "request": "launch",
             "mainClass": "OOP.Abstraction",
