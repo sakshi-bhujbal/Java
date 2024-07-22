@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractClassAndInterface",
+            "request": "launch",
+            "mainClass": "OOP.AbstractClassAndInterface",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "OverLoading",
             "request": "launch",
             "mainClass": "OOP.OverLoading",
