@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OverLoading",
+            "request": "launch",
+            "mainClass": "OOP.OverLoading",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "Overriding",
+            "request": "launch",
+            "mainClass": "OOP.Overriding",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "MethodOverriding",
             "request": "launch",
             "mainClass": "OOP.MethodOverriding",
