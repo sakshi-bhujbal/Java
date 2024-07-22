@@ -1,9 +1,16 @@
 package OOP;
 
 class Furniture{
+    static{
+    System.out.println("hi");
+    }
     void use(){
         System.out.println("Using furniture");
     }
+    void purpose(){
+        System.out.println("Used for sitting");
+    }
+    
 } 
 
 class sofa extends Furniture{
@@ -20,10 +27,13 @@ class bench extends Furniture{
 
 public class Polymorphism {
     public static void main(String args[]){
-        Furniture sofa=new sofa();
-        Furniture bench=new bench();
+        sofa sofa=new sofa();
+        
+        sofa.purpose();
         sofa.use();
+        bench bench=new bench();
         bench.use();
+        
         
     }
 }
