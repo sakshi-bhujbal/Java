@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConsonentOrVowel",
+            "request": "launch",
+            "mainClass": "Strings.ConsonentOrVowel",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "BubbleSort",
             "request": "launch",
             "mainClass": "Sorting.BubbleSort",
