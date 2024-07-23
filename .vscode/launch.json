@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringRotation",
+            "request": "launch",
+            "mainClass": "Strings.StringRotation",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "DuplicateCharOfString",
             "request": "launch",
             "mainClass": "Strings.DuplicateCharOfString",
