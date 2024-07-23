@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DuplicateCharOfString",
+            "request": "launch",
+            "mainClass": "Strings.DuplicateCharOfString",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "ReverseString",
             "request": "launch",
             "mainClass": "Strings.ReverseString",
