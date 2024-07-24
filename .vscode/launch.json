@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PushZeroesAtEnd",
+            "request": "launch",
+            "mainClass": "PushZeroesAtEnd",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "Arrays.RemoveDuplicates",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "StringRotation",
             "request": "launch",
             "mainClass": "Strings.StringRotation",
