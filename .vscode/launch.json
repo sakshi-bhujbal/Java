@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "Recursion.Power",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciSeries",
+            "request": "launch",
+            "mainClass": "Recursion.FibonacciSeries",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "FactorialOfNumbers",
             "request": "launch",
             "mainClass": "Recursion.FactorialOfNumbers",
