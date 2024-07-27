@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "OneToFive",
+            "request": "launch",
+            "mainClass": "Recursion.OneToFive",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "PrintNumbers",
+            "request": "launch",
+            "mainClass": "Recursion.PrintNumbers",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "PushZeroesAtEnd",
             "request": "launch",
             "mainClass": "PushZeroesAtEnd",
