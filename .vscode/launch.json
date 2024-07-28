@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CopyArrayElements",
+            "request": "launch",
+            "mainClass": "Arrays.CopyArrayElements",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "Power",
             "request": "launch",
             "mainClass": "Recursion.Power",
