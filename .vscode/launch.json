@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeftRotateElements",
+            "request": "launch",
+            "mainClass": "Arrays.LeftRotateElements",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfElement",
+            "request": "launch",
+            "mainClass": "Arrays.FrequencyOfElement",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "CopyArrayElements",
             "request": "launch",
             "mainClass": "Arrays.CopyArrayElements",
