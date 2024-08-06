@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "arraylistdemo",
+            "request": "launch",
+            "mainClass": "CollectionFramework.arraylistdemo",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "LeftRotateElements",
             "request": "launch",
             "mainClass": "Arrays.LeftRotateElements",
