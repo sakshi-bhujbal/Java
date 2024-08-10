@@ -1,6 +1,11 @@
 package CollectionFramework;
 public class LL {
     Node head;
+    private int size;
+
+    LL(){
+        this.size=0;
+    }
 
     //Node structure
 class Node{
@@ -11,6 +16,7 @@ class Node{
     Node(String data){
         this.data=data;
         this.next=null;
+        size++;
     }
 }
 
@@ -61,6 +67,7 @@ public void addLast(String data){
             System.out.println("The list is empty");
             // return;
         }
+        size--;
         head=head.next;
     }
 
@@ -70,7 +77,7 @@ public void addLast(String data){
             System.out.println("The list is empty");
             return;
         }
-
+        size--;
         if(head.next==null){
             head=null;
             return;
@@ -85,6 +92,11 @@ public void addLast(String data){
         secondLast.next=null;
     }
 
+    public int printSize(){
+        return size;
+    }
+    
+
     public static void main(String args[]){
         LL list=new LL();
         list.addFirst("a");
@@ -97,6 +109,12 @@ public void addLast(String data){
         //list.deleteFirst();
         //list.printList();
         list.deleteLast();
+        //list.printList();
+        // System.out.println();
+        //System.out.println(list.printSize());
+        list.addLast("list");
         list.printList();
+        System.out.println();
+        System.out.println(list.printSize());
     }
 }
