@@ -1,10 +1,10 @@
 package CollectionFramework;
 
-public class LL2 {
+public class ReverseLL {
     Node head;
     private int size;
 
-    LL2(){
+    ReverseLL(){
         this.size=0;
     }
 
@@ -91,7 +91,7 @@ public class LL2 {
 
         Node prevNode=head;
         Node currNode=head.next;
-        while(currNode.next!=null){
+        while(currNode!=null){
             Node nextNode=currNode.next;
             currNode.next=prevNode;
 
@@ -104,15 +104,16 @@ public class LL2 {
 
     public static void main(String args[]){
         LL2 list=new LL2();
-        list.addFirst("is");
-        list.addFirst("this");
+        list.addLast("this");
+        list.addLast("is");
+        list.addLast("a");
         list.addLast("list");
         list.printlist();
         
-        System.out.println();
-        list.removeLast();
-        System.out.println();
-        list.printlist();
+        // System.out.println();
+        // list.removeLast();
+        // System.out.println();
+        // list.printlist();
         System.out.println(list.printSize());
         System.out.println();
         list.reverseIterate();

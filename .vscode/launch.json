@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseLL",
+            "request": "launch",
+            "mainClass": "CollectionFramework.ReverseLL",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "LL2",
             "request": "launch",
             "mainClass": "CollectionFramework.LL2",
