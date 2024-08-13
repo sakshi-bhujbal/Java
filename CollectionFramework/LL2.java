@@ -88,13 +88,11 @@ public class LL2 {
         if(head==null || head.next==null){
             return;
         }
-
         Node prevNode=head;
         Node currNode=head.next;
-        while(currNode.next!=null){
+        while(currNode != null){
             Node nextNode=currNode.next;
             currNode.next=prevNode;
-
             prevNode=currNode;
             currNode=nextNode;
         }
@@ -124,10 +122,10 @@ public class LL2 {
         // list.printlist();
         // System.out.println(list.printSize());
         // System.out.println();
-        // list.reverseIterate();
+        list.reverseIterate();
         // list.printlist();
-         System.out.println();
-        list.head=list.reverseRecursive(list.head);
+          System.out.println();
+        // list.head=list.reverseRecursive(list.head);
         list.printlist();
     }
 }
