@@ -102,6 +102,15 @@ public class LL2 {
         head=prevNode;
     }
 
+    public Node reverseRecursive(Node head){
+        if(head==null || head.next==null)
+        return head;
+    
+    Node newHead=reverseRecursive(head.next);
+    head.next.next = head;
+    head.next=null;
+    return newHead;
+    }
     public static void main(String args[]){
         LL2 list=new LL2();
         list.addFirst("is");
@@ -109,13 +118,16 @@ public class LL2 {
         list.addLast("list");
         list.printlist();
         
-        System.out.println();
-        list.removeLast();
-        System.out.println();
-        list.printlist();
-        System.out.println(list.printSize());
-        System.out.println();
-        list.reverseIterate();
+        // System.out.println();
+        // list.removeLast();
+        // System.out.println();
+        // list.printlist();
+        // System.out.println(list.printSize());
+        // System.out.println();
+        // list.reverseIterate();
+        // list.printlist();
+         System.out.println();
+        list.head=list.reverseRecursive(list.head);
         list.printlist();
     }
 }
