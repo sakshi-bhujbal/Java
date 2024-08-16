@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackAL",
+            "request": "launch",
+            "mainClass": "StackAL",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "Stackdemo",
             "request": "launch",
             "mainClass": "Stackdemo",
