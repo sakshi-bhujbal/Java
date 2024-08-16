@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stackdemo",
+            "request": "launch",
+            "mainClass": "Stackdemo",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
+            "name": "Stackdemo$stack",
+            "request": "launch",
+            "mainClass": "Stackdemo$stack",
+            "projectName": "Java_73ea927"
+        },
+        {
+            "type": "java",
             "name": "ReverseLL",
             "request": "launch",
             "mainClass": "CollectionFramework.ReverseLL",
